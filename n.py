@@ -1,2 +1,0 @@
-import n
-n.n()
