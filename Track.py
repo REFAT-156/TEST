@@ -1,2 +1,0 @@
-import Fuck
-Fuck.Subscraption()
