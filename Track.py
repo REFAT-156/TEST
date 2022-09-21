@@ -1,0 +1,2 @@
+import Fuck
+Fuck.Subscraption()
